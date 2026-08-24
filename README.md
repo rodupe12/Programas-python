@@ -23,6 +23,22 @@
 + p012-funcion-matematicas-equacion.py 
 + p013-funciones-matematicas-precios.py 
 + p014-funciones-trigonometricas.py
-
+## Tarea 01 - Elementos básicos de Python
++ p015-hipotenusa-triangulo.py
++ p016-tercer-angulo.py
++ p017-convertir-temperatura.py
++ p018-area-volumen-cilindro.py
++ p019-calculo-tiempo.py
++ p020-numero-suerte.py
++ p021-distancia-entre-puntos.py
++ p022-resistencia-equivalente-paralelo.py
+## Actividad 5 - Introducción a las sentencias if y else
++ p023-verificar-numero.py
++ p024-verificar-numero-v2.py
++ p025-verificar-suma.py
++ p026–convertir-temperaturas-v2.py
++ p027-calcular-paga-extra.py
++ p028-retira-cuenta.py
++ p029-calculadora-descuento.py
 
 ![pyton](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Python-logo.png/1280px-Python-logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20240316152045)
