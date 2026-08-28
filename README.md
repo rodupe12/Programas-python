@@ -48,6 +48,15 @@
 + p034-tipo-angulo.py
 + p034-tipo-angulo-v2.py
 + p035-tipo-triangulo.py
+## Tarea 2 - Ejecución condicional
++ p036-numeros-consecutivos.py
++ p037-numero-mayor.py
++ p038-dia-semana.py
++ p039-numeros-romanos.py
++ p040-calculo-notas.py
++ p041-aceptar-estudiante-v2.py
++ p042-precio-entrada-cine.py
++ p043-calculadora-anio-bisiesto.py 
 
 
 ![pyton](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Python-logo.png/1280px-Python-logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20240316152045)
