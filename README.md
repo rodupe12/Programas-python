@@ -57,6 +57,22 @@
 + p041-aceptar-estudiante-v2.py
 + p042-precio-entrada-cine.py
 + p043-calculadora-anio-bisiesto.py 
+## Actividad 7 - Ejecución repetitiva, - Parte 1
++ p044-conteo-ascendente.py
++ p045-conteo-ascendente-v2.py
++ p046-conteo-descendente.py
++ p047-conteo-descendente-v2.py
++ p048-multiplos-continue.py
++ p049-sumar-consecutivos.py
++ p050-conteo-numeros.py
++ p051-adivina-numero.py
+## Actividad 8 - Ejecución repetitiva - Parte 2
++ p052-tabla-conversion.py
++ p053-conjetura-collatz.py
++ p054-tabla-multiplicar-while-v1.py
++ p055-tabla-multiplicar-while-v2.py
++ p056-contador-vocales.py
++ p057-interes-simple.py
 
 
 ![pyton](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Python-logo.png/1280px-Python-logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20240316152045)
