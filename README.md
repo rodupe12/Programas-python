@@ -73,6 +73,14 @@
 + p055-tabla-multiplicar-while-v2.py
 + p056-contador-vocales.py
 + p057-interes-simple.py
+## Tarea 03 – Ejecución repetitiva 1 - Ciclo while 
++ p058-impares-ascendente.py
++ p059-pares-descendente.py
++ p060-promedio-suma.py
++ p061-suma-200.py
++ p062-conversion-temperaturas.py
++ p063-numero-mayor.py
++ p064-verificar-palindromo.py
 
 
 ![pyton](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Python-logo.png/1280px-Python-logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20240316152045)
