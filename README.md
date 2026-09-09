@@ -81,6 +81,16 @@
 + p062-conversion-temperaturas.py
 + p063-numero-mayor.py
 + p064-verificar-palindromo.py
+## Actividad 9 - Ejecución repetitiva - Parte 3 - For...
++ p065-conteo-ascendente-for.py
++ p066-conteo-ascendente-for-v2.py
++ p067-conteo-descendente-for.py
++ p068-conteo-descendente-for-v2.py
++ p069-arriba-abajo.py
++ p070-suma-pares-impares.py
++ p071-suma-promedio-numeros.py
++ p072-suma-mutiplos.py
++ p073-cifrado-cesar.py
 
 
 ![pyton](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Python-logo.png/1280px-Python-logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20240316152045)
