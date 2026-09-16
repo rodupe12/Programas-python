@@ -98,5 +98,11 @@
 + p077-factorial-numeros.py
 + p078-combina-colores.py
 + p079-suma-potencias.py
+## Tarea 4 - Ciclos for
++ p080-compara-rendimiento-inversion.py
++ p081-plan-ahorro-depistos-mensuales.py
++ p082-cuadro-hueco-caracter.py
++ p083-rombo-caracter.py
++ p084-triangulo-invertido-numeros.py
 
 ![pyton](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Python-logo.png/1280px-Python-logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20240316152045)
