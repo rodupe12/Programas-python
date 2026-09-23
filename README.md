@@ -104,5 +104,7 @@
 + p082-cuadro-hueco-caracter.py
 + p083-rombo-caracter.py
 + p084-triangulo-invertido-numeros.py
-
+## 09 - Primer examen parcial
++ p085-simulador-venta-combustible.py
++ p085-bitacora-ia.pdf
 ![pyton](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Python-logo.png/1280px-Python-logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20240316152045)
