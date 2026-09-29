@@ -107,4 +107,12 @@
 ## 09 - Primer examen parcial
 + p085-simulador-venta-combustible.py
 + p085-bitacora-ia.pdf
+## Actividad 12 - Listas en Python – Parte 1
++ p086-acceder-lista.py
++ p087-modificar-lista.py
++ p088-agregar-lista.py
++ p089-eliminar-lista.py
++ p090-iterar-lista.py
++ p091-lista-de-gastos.py
+
 ![pyton](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Python-logo.png/1280px-Python-logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20240316152045)
