@@ -129,6 +129,16 @@
 + p102-aplanar-matriz.py
 + p103-resumen-ventas.py
 + p103-resumen-ventas_v2.py
+## Tarea 5 - Listas
++ p104-procesar-notas.py
++ p105-listas-multiplica.py
++ p106-mes-día-nombre.py
++ p107-listas-aleatorios-suma.py
++ p108-ciudades.py
++ p109-lista-impares.py
++ p110-comprension-filtra-palabras.py
++ p111-comprension-pares-cuadrados.py
+
 ## Actividad 15 -  Diccionarios - Parte 1
 + p112-datos-estudiante.py
 + p113-calificaciones-estudiante.py
@@ -136,6 +146,7 @@
 + p115-conversor-unidades.py
 + p116-conversion-divisas.py
 + p117-punto-de-venta.py
+
 
 
 ![pyton](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Python-logo.png/1280px-Python-logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20240316152045)
