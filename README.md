@@ -129,6 +129,13 @@
 + p102-aplanar-matriz.py
 + p103-resumen-ventas.py
 + p103-resumen-ventas_v2.py
+## Actividad 15 -  Diccionarios - Parte 1
++ p112-datos-estudiante.py
++ p113-calificaciones-estudiante.py
++ p114-nombres-edades.py
++ p115-conversor-unidades.py
++ p116-conversion-divisas.py
++ p117-punto-de-venta.py
 
 
 ![pyton](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Python-logo.png/1280px-Python-logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20240316152045)
