@@ -138,7 +138,6 @@
 + p109-lista-impares.py
 + p110-comprension-filtra-palabras.py
 + p111-comprension-pares-cuadrados.py
-
 ## Actividad 15 -  Diccionarios - Parte 1
 + p112-datos-estudiante.py
 + p113-calificaciones-estudiante.py
@@ -146,6 +145,11 @@
 + p115-conversor-unidades.py
 + p116-conversion-divisas.py
 + p117-punto-de-venta.py
+## Actividad 16 - Diccionarios Parte 2
++ p118-lote-autos.py
++ p119-registro-estudiantes.py
++ p120-reporte-ventas.py
++ p121-area-figuras.py
 
 
 
