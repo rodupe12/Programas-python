@@ -158,6 +158,11 @@
 + p126-procesar-diccionario.py
 + p127-contar-caracteres.py
 
+## Actividad 18 - Conjuntos
++ p128-municipios.py
++ p129-operaciones-conjuntos.py
+
+
 
 
 ![pyton](https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Python-logo.png/1280px-Python-logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20240316152045)
