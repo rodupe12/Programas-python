@@ -169,6 +169,9 @@
 ## Tarea 8 - Tuplas
 + p134-coordenadas-tuplas.py
 + p135-alumnos-tuplas.py
+## Segundo Examen Parcial
++ p136-segundo-examen-parcial.py
++ p136-bitacora-ia.pdf
 
 
 
